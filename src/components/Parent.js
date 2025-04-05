@@ -15,7 +15,7 @@ const Parent = () => {
         <Child2
          setSelectedOption = {setSelectedOption}
         />
-        <button>Selected Option: {selectedOption}</button>
+        <p>Selected Option: {selectedOption}</p>
         
     </div>
   )
